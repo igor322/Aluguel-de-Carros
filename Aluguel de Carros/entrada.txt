@@ -1,0 +1,13 @@
+normal 1
+fidelidade 2
+quantidadePessoas 3
+quantidadeDias 3
+dia 17
+mes 02
+ano 2019
+dia 19
+mes 02
+ano 2019
+dia 20
+mes 02
+ano 2019
